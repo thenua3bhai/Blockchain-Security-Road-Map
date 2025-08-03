@@ -1,7 +1,8 @@
 # 🚀 Smart Contract Auditing Roadmap
 
-- 📌 **Note:** This roadmap is designed to work best for average to above-average learners.
-- ⚡ If you're a sharp and fast learner, there’s an alternate roadmap provided below for you to follow.
+- 📌 **Note:** Roadmap 1 is designed to work best for average to above-average learners.
+- ⚡ Alternate Roadmap-2 provided if you're a sharp and fast learner.
+- 🎯 Choose only one out of these two.
 
 ### 🎯 _Goal: Become a Smart Contract Auditor / Smart Contract Security Researcher – starting with Solidity + Yul, then progressing to Rust, Cairo, etc. If you are confused about any resource/term mentioned below just google it_
 
@@ -18,8 +19,12 @@
 > 💡 **Pro Tip:** Don’t just watch videos — **practice actively**. Code everything yourself, explore more than what’s taught, and learn by doing.
 
 ---
+## 🚀 Smart Contract Auditing Roadmap – For Average Learners
+<details>
+<summary>Roadmap 1 -Normal</summary>
 
 ## 🧩 Part 1: Programming Fundamentals 🧠 **~260 hours**
+<details>
 
 ---
 
@@ -158,8 +163,10 @@
 Ready for the next stage? 📈
 
 **Stay consistent. Build momentum. Keep shipping! 💻🚀**
+</details>
 
 ## 🧩 Part-2: Blockchain & Smart Contract Development 🧠 **~250 hrs**
+<details>
 
 ### 1. Blockchain Hindi Course – CodeEater
 
@@ -289,8 +296,11 @@ Ready for the next stage? 📈
 - 💡 While Foundry is more commonly used in Solidity projects, many developers also use Hardhat for its additional benefits.
 
 ---
+</details>
 
-## 🚨 Part 3: Smart Contract Security
+## 🚨 Part 3: Smart Contract Security  ⏱️ ~300 Hrs
+
+<details>
 
 ### ⏱️ Total Time: \~300 Hrs (\~2 Months)
 
@@ -351,8 +361,10 @@ _Do twice: now and post-Damn Vulnerable DeFi_
 - Topics: Reentrancy, overflows, tx.origin, full audit cycle
 
 ---
+</details>
 
 ## 🕵️‍♂️ Part 4: Start Auditing Practice (Most Important Step)
+<details>
 
 ### 🛠️ Audit Workflow (Covered in Updraft Security Course)
 
@@ -437,8 +449,14 @@ _Do twice: now and post-Damn Vulnerable DeFi_
 - 🦀 Rust (Solana, Cosmos, etc.)
 - 🌀 ZK Tech (SNARKs, STARKs, etc.)
 - ...and more — because **it never ends** 💡
+</details>
+</details>
 
-# 🚀 Smart Contract Auditing Roadmap – Fast Path for High-IQ Learners
+## 🚀 Smart Contract Auditing Roadmap – Fast Path for High-IQ Learners
+
+<details>
+<summary>Roadmap 2 -Fast Paced</summary>
+
 
 > 🧠 _Designed for self-learners, fast movers, and those who prefer learning by doing._
 
@@ -460,6 +478,7 @@ Whatever your style, this roadmap outlines a **fast and efficient path (~550 hou
 ---
 
 ## 🔷 Part 1: Programming Essentials (⏱️ ~110 Hours)
+<details>
 
 | Topic                   | Content                                               | Duration |
 | ----------------------- | ----------------------------------------------------- | -------- |
@@ -471,8 +490,10 @@ Whatever your style, this roadmap outlines a **fast and efficient path (~550 hou
 > ⚒️ Build a simple JS + HTML project and push to GitHub.
 
 ---
+</details>
 
 ## 🔗 Part 2: Blockchain & Solidity (⏱️ ~140 Hours)
+<details>
 
 | Topic                 | Resource                                                                                 | Duration |
 | --------------------- | ---------------------------------------------------------------------------------------- | -------- |
@@ -484,8 +505,10 @@ Whatever your style, this roadmap outlines a **fast and efficient path (~550 hou
 > ⛏️ Hardhat can be learned later during audits if needed.
 
 ---
+</details>
 
 ## 🛡️ Part 3: Security & CTFs (⏱️ ~90 Hours)
+<details>
 
 | Topic                 | Resource                                                                                                                     | Duration         |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -498,8 +521,10 @@ Whatever your style, this roadmap outlines a **fast and efficient path (~550 hou
 > 🔥 Optional: Try [Paradigm CTF](https://github.com/paradigmxyz/ctf) after 200 hrs of auditing experience – it's advanced.
 
 ---
+</details>
 
 ## 🕵️‍♂️ Part 4: Real-World Auditing 
+<details>
 
 > 🎯 Start here after you're comfortable with Solidity, Foundry, and basic exploits.
 
@@ -597,6 +622,8 @@ Whatever your style, this roadmap outlines a **fast and efficient path (~550 hou
 - 🦀 Rust (Solana, Cosmos, etc.)
 - 🌀 ZK Tech (SNARKs, STARKs, etc.)
 - ...and more — because **it never ends** 💡
+</details>
+</details>
 
 ## 🏁 Let’s Go!
 
