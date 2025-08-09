@@ -231,7 +231,10 @@ Ready for the next stage? 📈
 - ⏱️ \~26 hrs Videos → **~100 hrs**
 - Deep dive into Foundry architecture and Smart Contracts
 - 🔁 Repeat Sections 5 & 6 → esp. Section 6 (Proxy patterns) with openzeppelin code for UUPS etc.
-
+### 9. Solidity By Example -
+- [Link](https://solidity-by-example.org/)
+- Basics, Applications, Hacks, EVM, Tests, Foundry, DeFi
+- Use what needed from this
 ---
 
 ## 🧩 Application Strategy
