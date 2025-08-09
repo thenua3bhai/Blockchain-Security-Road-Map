@@ -359,7 +359,11 @@ _Do twice: now and post-Damn Vulnerable DeFi_
 
 - 🎓 [Course Link](https://updraft.cyfrin.io/courses/security/)
 - Topics: Reentrancy, overflows, tx.origin, full audit cycle
-
+  
+### 🧰 8. Security CheckList – Do this daily while auditing.
+- [Solodit](https://solodit.cyfrin.io/checklist) - 370 
+- Way to learn about almost all famous vulnerabilties after that think about them while auditng specially those related to particular protocol type like dex.
+- After that only business logic mistakes or specific code dependent mistake remains or any other bug which may not be listed here learn if yoou see fishy.
 ---
 </details>
 
